@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.geniex.xdollarz",
+  "serialNumber": "XDZ-SEED-001",
+  "teamIdentifier": "GEN1X89A",
+  "organizationName": "Genie-X Vault",
+  "description": "X-Dollarz™ Seed Pass",
+  "logoText": "X-Dollarz™",
+  "foregroundColor": "rgb(255,255,255)",
+  "backgroundColor": "rgb(26,17,39)",
+  "labelColor": "rgb(168,125,255)",
+  "barcode": {
+    "message": "https://hiddenlinguisticcode.com/ledger/XDZ-SEED-001",
+    "format": "PKBarcodeFormatQR",
+    "messageEncoding": "iso-8859-1"
+  },
+  "generic": {
+    "primaryFields": [
+      {
+        "key": "holder",
+        "label": "HOLDER",
+        "value": "Xaphire-Eli"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "activationDate",
+        "label": "ACTIVATED",
+        "value": "2025-08-01"
+      },
+      {
+        "key": "denomination",
+        "label": "VALUE",
+        "value": "1 X-Dollarz™ (Seed)"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "exchange",
+        "label": "USE",
+        "value": "Crystal-backed exchanges + in-store credit"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "symbol",
+        "label": "CRYSTAL SYMBOL",
+        "value": "Amethyst"
+      },
+      {
+        "key": "issuer",
+        "label": "ISSUED BY",
+        "value": "The Trustee of Off The Wall (ABN 44 726 540 582)"
+      },
+      {
+        "key": "terms",
+        "label": "TERMS",
+        "value": "This note holds energetic, symbolic and transactional value within the Genie-X ecosystem. Non-fiat, non-refundable."
+      }
+    ]
+  }
+}
